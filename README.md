@@ -65,9 +65,11 @@ File pendukung yang berisi data, perhitungan, atau dokumentasi terkait tugas **U
 - Mensimulasikan proses pembelajaran agen berbasis reward  
 
 ### 📂 Struktur Folder
+```
 UAS-MATHEMATIC-FOR-AI/
 │
 ├── Q_Learning.py
 ├── dataset_qlearning_50baris.csv
 ├── MATH AI UAS.xlsx
 └── README.md
+```
